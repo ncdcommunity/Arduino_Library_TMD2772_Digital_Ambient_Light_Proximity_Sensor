@@ -30,13 +30,17 @@ Manufactured by AMS, the TMD2772 provides digital ambient light sensing (ALS), a
 
 Applications:
 
-• Mobile Handset Touchscreen Control and Automatic Speakerphone Enable
+• Display Backlight Control
+
+• Cell Phone Touch Screen Disable
 
 • Mechanical Switch Replacement
 
-• Paper Alignment
+• Industrial Process Control
 
-• Digital Signage
+• Medical Diagnostics
+
+• Printer Paper Alignment
 
 How to Use the TMD2772 Arduino Library
 
